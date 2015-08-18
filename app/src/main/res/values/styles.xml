@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme1" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="tvtheme">@style/tvtheme1</item>
+        <item name="loginbtntheme">@style/loginbtntheme1</item>
+    </style>
+
+    <style name="AppTheme2" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="tvtheme">@style/tvtheme2</item>
+        <item name="loginbtntheme">@style/loginbtntheme2</item>
+    </style>
+
+    <style name="tvtheme1">
+        <item name="android:textColor">#22dd11</item>
+    </style>
+
+    <style name="tvtheme2">
+        <item name="android:textColor">#ff0000</item>
+    </style>
+
+    <style name="loginbtntheme1">
+        <item name="android:textColor">#ffff3876</item>
+    </style>
+
+    <style name="loginbtntheme2">
+        <item name="android:textColor">#ff263bdd</item>
+    </style>
+
+</resources>
